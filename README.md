@@ -1,4 +1,6 @@
-<h1 align="center">Hi you can call me Pie</h1>
+
+
+<h1 align="center">i am Pie</h1>
 <h3 align="center">Trying to debug bugs😑</h3>
 
 - What the dog doing???🐕 **The odin project**
