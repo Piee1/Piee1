@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piee1&show_icons=true&locale=en&layout=compact" alt="piee1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piee1&show_icons=true&theme=dark&title_color=050505&locale=en" alt="piee1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piee1&show_icons=true&title_color=000000&text_color=000000&locale=en" alt="piee1" /></p>
